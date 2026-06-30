@@ -13,37 +13,37 @@ Books
 | 01 | GE2116 | [Engineering Practice Laboratory](GE2116%20-%20Engineering%20Practice%20Laboratory/readme.md) | 2 | A | 9 |  Jan 2013 |
 |02 | CY2161 | [Engineering Chemistry - II](CY2161%20-%20Engineering%20Chemistry%202/readme.md) | 3 | C | 7 | APR 2013 |
 |02 | EC2151 | [Electric Circuits and Electron Devices](EC2151%20-%20Electric%20Circuits%20and%20Electron%20Devices/readme.md) | 4 | E | 5 | APR 2013   |
-|02 | GE2152 | Basic Civil & Mechanical Engineering | 4 | C | 7 | APR 2013  |
-|02 | HS2161 | Technical English - II | 4 | C | 7 | APR 2013  |
-|02 | MA2161 | Mathematics - II | 4 | A | 9 | APR 2013  |
-|02 | PH2161 | Engineering Physics - II | 3 | B | 8 | APR 2013  |
-|02 | EC2155 | Circuits and Devices Laboratory | 2 | S | 10 | APR 2013  |
-|02 | GE2155 | Computer Practice Laboratory - II | 2 | A | 9 | APR 2013 |
-|02 | GS2165 | Physics and Chemistry Laboratory | 2 | S | 10 | APR 2013 |
-| 03 | EC2201 | ELECTRICAL ENGINEERING | 3 | B | 8 | NOV 2013 |
-| 03 | EC2202 | DATA STRUCTURES AND OBJECT ORIENTED PROGRAMMING IN C++ | 3 | E | 5 | NOV 2013 |
-| 03 | EC2203 | DIGITAL ELECTRONICS | 4 | C | 7 | NOV 2013 |
-| 03 | EC2204 | SIGNALS AND SYSTEMS | 4 | E | 5 | NOV 2013 |
-| 03 | EC2205 | ELECTRONIC CIRCUITS - I | 4 | E | 5 | NOV 2013 |
-| 03 | MA2211 | Transforms and Partial Differential Equations | 4 | S | 10 | NOV 2013 |
-| 03 | EC2207 | Digital Electronics Lab | 2 | S | 10 | NOV 2013 |
-| 03 | EC2208 | Electronics Circuits Lab - I | 2 | S | 10 | NOV 2013 |
-| 03 | EC2209 | DATA STRUCTURES AND OBJECT ORIENTED PROGRAMMING LAB | 2 | S | 10 | NOV 2013 |
-| 04 | EC2251 | ELECTRONICS CIRCUITS II  | 4 | B | 8 | APR 2014 |
-| 04 | EC2252 | COMMUNICATION THEORY | 4 | B | 8 | APR 2014 |
-| 04 | EC2253 | ELECTROMAGNETIC FIELDS | 4 | C |  7 | APR 2014 |
-| 04 | EC2254 | LINEAR INTEGRATED CIRCUITS | 3 | B | 8 | APR 2014 |
-| 04 | EC2255 | CONTROL SYSTEMS | 3 | C | 7 | APR 2014 |
-| 04 | MA2261 | PROBABILITY AND RANDOM PROCESSES | 4 | E | 5 | APR 2014 |
-| 04 | EC2257 | ELECTRONICS CIRCUIT II AND SIMULATION LAB | 2 | S | 10 | APR 2014 |
-| 04 | EC2258 | LINEAR INTEGRATED CIRCUIT LAB | 2 | S | 10 | APR 2014 |
-| 04 | EC2259 | ELECTRICAL ENGINEERING AND CONTROL SYSTEM LAB | 2 | S | 10 | APR 2014 |
-| 05 | EC2301 | DIGITAL COMMUNICATION  | 3 | C | 7 | NOV 2014 |
-| 05 | EC2302 | DIGITAL SIGNAL PROCESSING | 4 | C | 7 | NOV 2014 |
-| 05 | EC2303 | COMPUTER ARCHITECTURE AND ORGANIZATION | 3 | E | 5 | APR 2015 |
-| 05 | EC2304 | MICROPROCESSORS AND MICROCONTROLLERS | 4 | C | 7 | NOV 2014 |
-| 05 | EC2305 | TRANSMISSION LINES AND WAVE GUIDES | 4 | C | 7 | NOV 2014 |
-| 05 | GE2021 |  ENVIRONMENTAL SCIENCE AND ENGINEERING | 3 | B | 8 | NOV 2014 |
+|02 | GE2152 | [Basic Civil & Mechanical Engineering](GE2152%20-%20Basic%20Civil%20&%20Mechanical%20Engineering/readme.md) | 4 | C | 7 | APR 2013  |
+|02 | HS2161 | [Technical English - II](HS2161%20-%20Technical%20English%202/readme.md) | 4 | C | 7 | APR 2013  |
+|02 | MA2161 | [Mathematics - II](MA2161%20-%20Mathematics%202/readme.md) | 4 | A | 9 | APR 2013  |
+|02 | PH2161 | [Engineering Physics - II](PH2161%20-%20Engineering%20Physics%202/readme.md) | 3 | B | 8 | APR 2013  |
+|02 | EC2155 | [Circuits and Devices Laboratory](EC2155%20-%20Circuits%20and%20Devices%20Laboratory/readme.md) | 2 | S | 10 | APR 2013  |
+|02 | GE2155 | [Computer Practice Laboratory - II](GE2155%20-%20Computer%20Practice%20Laboratory%202/readme.md) | 2 | A | 9 | APR 2013 |
+|02 | GS2165 | [Physics and Chemistry Laboratory](GE2165%20-%20Physics%20and%20Chemistry%20Laboratory/readme.md) | 2 | S | 10 | APR 2013 |
+| 03 | EC2201 | [ELECTRICAL ENGINEERING](EC2201%20-%20Electrical%20Engineering/readme.md) | 3 | B | 8 | NOV 2013 |
+| 03 | EC2202 | [DATA STRUCTURES AND OBJECT ORIENTED PROGRAMMING IN C++](EC2202%20-%20Data%20Structures%20and%20OOPS%20in%20cpp/readme.md) | 3 | E | 5 | NOV 2013 |
+| 03 | EC2203 | [DIGITAL ELECTRONICS](EC2203%20-%20Digital%20Electronics/readme.md) | 4 | C | 7 | NOV 2013 |
+| 03 | EC2204 | [SIGNALS AND SYSTEMS](EC2204%20-%20Signals%20and%20Systems/readme.md) | 4 | E | 5 | NOV 2013 |
+| 03 | EC2205 | [ELECTRONIC CIRCUITS - I](EC2205%20-%20Electronic%20Circuits%201/readme.md) | 4 | E | 5 | NOV 2013 |
+| 03 | MA2211 | [Transforms and Partial Differential Equations](MA2211%20-%20Transforms%20and%20Partial%20Differential%20Equations/readme.md) | 4 | S | 10 | NOV 2013 |
+| 03 | EC2207 | [Digital Electronics Lab](EC2207%20-%20Digital%20Electronics%20Lab/readme.md) | 2 | S | 10 | NOV 2013 |
+| 03 | EC2208 | [Electronics Circuits Lab - I](EC2208%20-%20Electronics%20Circuit%20Lab%201/readme.md) | 2 | S | 10 | NOV 2013 |
+| 03 | EC2209 | [DATA STRUCTURES AND OBJECT ORIENTED PROGRAMMING LAB](EC2209%20-%20Data%20Structures%20and%20Object%20Oriented%20Programming%20Lab/readme.md) | 2 | S | 10 | NOV 2013 |
+| 04 | EC2251 | [ELECTRONICS CIRCUITS II](EC2251%20-%20Electronics%20Circuit%202/readme.md)  | 4 | B | 8 | APR 2014 |
+| 04 | EC2252 | [COMMUNICATION THEORY](EC2252%20-%20Communication%20Theory/readme.md) | 4 | B | 8 | APR 2014 |
+| 04 | EC2253 | [ELECTROMAGNETIC FIELDS](EC2253%20-%20Electromagnetic%20Fields/readme.md) | 4 | C |  7 | APR 2014 |
+| 04 | EC2254 | [LINEAR INTEGRATED CIRCUITS](EC2254%20-%20Linear%20Integrated%20Circuits/readme.md) | 3 | B | 8 | APR 2014 |
+| 04 | EC2255 | [CONTROL SYSTEMS](EC2255%20-%20Control%20Systems/readme.md) | 3 | C | 7 | APR 2014 |
+| 04 | MA2261 | [PROBABILITY AND RANDOM PROCESSES](MA2261%20-%20Probability%20and%20Random%20Processes/readme.md) | 4 | E | 5 | APR 2014 |
+| 04 | EC2257 | [ELECTRONICS CIRCUIT II AND SIMULATION LAB](EC2257%20-%20Electronics%20Circuit%202%20and%20Simulation%20Lab/readme.md) | 2 | S | 10 | APR 2014 |
+| 04 | EC2258 | [LINEAR INTEGRATED CIRCUIT LAB](EC2258%20-%20Linear%20Integrated%20Circuit%20Lab/readme.md) | 2 | S | 10 | APR 2014 |
+| 04 | EC2259 | [ELECTRICAL ENGINEERING AND CONTROL SYSTEM LAB](EC2259%20-%20Electrical%20Engineering%20And%20Control%20System%20Lab/readme.md) | 2 | S | 10 | APR 2014 |
+| 05 | EC2301 | [DIGITAL COMMUNICATION](EC2301%20-%20Digital%20Communication/readme.md)  | 3 | C | 7 | NOV 2014 |
+| 05 | EC2302 | [DIGITAL SIGNAL PROCESSING](EC2302%20-%20Digital%20Signal%20Processing/readme.md) | 4 | C | 7 | NOV 2014 |
+| 05 | EC2303 | [COMPUTER ARCHITECTURE AND ORGANIZATION](EC2303%20-%20Computer%20Architecture%20and%20Organization/readme.md) | 3 | E | 5 | APR 2015 |
+| 05 | EC2304 | [MICROPROCESSORS AND MICROCONTROLLERS](EC2304%20-%20Microprocessors%20and%20Microcontrollers/readme.md) | 4 | C | 7 | NOV 2014 |
+| 05 | EC2305 | [TRANSMISSION LINES AND WAVE GUIDES](EC2305%20-%20Transmission%20Lines%20and%20Wave%20Guides/readme.md) | 4 | C | 7 | NOV 2014 |
+| 05 | GE2021 | ENVIRONMENTAL SCIENCE AND ENGINEERING | 3 | B | 8 | NOV 2014 |
 | 05 | EC2306 | DIGITAL SIGNAL PROCESSING LAB | 2 | S | 10 | NOV 2014 |
 | 05 | EC2307 | COMMUNICATION SYSTEM LAB | 2 | S | 10 | NOV 2014 |
 | 05 | EC2308 | MICROPROCESSOR AND MICROCONTROLLER LAB | 2 | A | 9 | NOV 2014 |
