@@ -1,47 +1,6 @@
 # Electronic-and-Communication-Engineer
 Books
 
-
-> I, **Gobal Krishnan V**, have completed a Bachelor of Engineering degree in **Electronics and Communication Engineering** under the Faculty of Information and Communication Engineering from **Anna University**. I successfully fulfilled all academic requirements and was awarded the degree in **November 2017 with a CGPA of 7.55**, securing **Second Class**.
-
-| | | | | | 
-|---|--- |--- |--- |---| 
-| [![Watch the video](https://img.youtube.com/vi/AHokfzRiIis/hqdefault.jpg)](https://youtu.be/AHokfzRiIis?si=u5HQEK-ajDebJ2-8) | [![Watch the video](https://img.youtube.com/vi/a46jZVp8hcg/hqdefault.jpg)](https://youtu.be/a46jZVp8hcg?si=cH97EuXntPV7cBsg) |  [![Watch the video](https://img.youtube.com/vi/kvnu1iSCRy8/hqdefault.jpg)](https://youtu.be/kvnu1iSCRy8?si=nikdq_bi18hVm-hA) | [![Watch the video](https://img.youtube.com/vi/299SsDM4ZZE/hqdefault.jpg)](https://youtu.be/299SsDM4ZZE?si=b1lvnsKzoUDgpEqm) | [![Watch the video](https://img.youtube.com/vi/J4BBVjM9S6A/hqdefault.jpg)](https://youtu.be/J4BBVjM9S6A?si=PMcKCjDHMfMW3vl1) |
-
-
-| ![degree certificate](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/degree%20certificate.jpg) | [![Watch the video](https://img.youtube.com/vi/5VbafMCWDnU/maxresdefault.jpg)](https://youtu.be/5VbafMCWDnU?si=zPPv8pCR2iL8Az4u) |
-| :---: | :---:  |
-| [![Watch the video](https://img.youtube.com/vi/7g5qlmZmuAA/hqdefault.jpg)](https://youtu.be/7g5qlmZmuAA?si=K9jqmeBSh-p1nt2j) | [![Watch the video](https://img.youtube.com/vi/Bs5BEtS4c8c/hqdefault.jpg)](https://youtu.be/Bs5BEtS4c8c?si=aMan8xAN5sdsun-X) |
-
-
-# ChatGPT, Gemini AI help me to find the truth
-
-> I Learned based Education System, give more credit to theory, not on Practical, since i finished schooling in 2012, current system are different in learning method with simulation based learning the education in different all over the world. but they only changed system in 2020, even though many state of country not accepting the new system of education.
-
-> I Graduated in 2017, I have arrears in engineering on **[sem 5 - Computer Architecture and Organization]**, **[sem 6 - Measurement and Instruments]**, **[sem 7 - Wireless Communication]**, **[sem 8 - Wireless Network, Mobile Adhoc Network]** this are theory paper. I finally cleared those paper in 2017.
-
-> My batch in engineering is 2012-2016, due to this arrears, 1 year taken to completed (i.e) 2017, I have completed.
-
-> I believed college professor , principle are really help for education. but are selfish. I not saying wrong them, since, I am also selfish. I too think to secure myself. I should predict this before 2012. so my 2012 to 2026 years are Wasted. 
-
- 
-
-# GOBAL KRISHNAN V, BORN 18-06-1995
-### ELECTRONICS AND COMMUNICATION ENGINEER
-### ANALYSIS AND EVALUATE THE GRADES
-
-- (important statement) But, Anna University Affiliated (T.J.S Engineering College) said to buy the Final year project only from outside 'Project Center'. I not done that.  Otherwise they said 'fail in exam'.  so given money to buy the Final year project
--  08 - EC2451 - PROJECT WORK - APR 2016 - is not my work - they forced to buy from project center. 
--  **Hand Gesture Based Motor Control** – A final year project using a Raspberry Pi board, camera, and DC motor, with OpenCV’s Haar Cascade algorithm to detect the hand palm and control motor rotation (left, right, up, down) based on hand movement in a 2D coordinate system.
--  Unwanted paid money for college, Books & Doc are Totally waste, Since - [No] Knowledge gain. - Money Wasted - Time Wasted - Even if you have talent, you fail due to some unknown people. or society poilitcal issue.
----
-
-| Problem 1 | Problem 2 | Problem 3 |
-|--- | --- | ---  |
-| [![Watch the video](https://img.youtube.com/vi/gF9EwcG0dfg/mqdefault.jpg)](https://youtu.be/gF9EwcG0dfg) | [![Watch the video](https://img.youtube.com/vi/67bWBbxmSmU/mqdefault.jpg)](https://youtu.be/67bWBbxmSmU) | [![Watch the video](https://img.youtube.com/vi/5w7XyiTnGpk/mqdefault.jpg)](https://youtu.be/5w7XyiTnGpk) |
-
-
-
 |Sem| Course Code | Course Title | C | LG | GP | Month & Year of Passing |
 | --- | --- | --- | --- | --- | --- | --- |
 | 01  | CY2111 | [Engineering Chemistry - I](CY2111%20-%20Engineering%20Chemistry%201%20/readme.md) | 3 | C | 7 | Jan 2013 |
@@ -108,3 +67,47 @@ Books
 | 08 | EC2043 | [WIRELESS NETWORKS](EC2043%20-%20Wireless%20Networks/readme.md) | 3 | E | S | NOV 2017 |
 | 08 | EC2050 | [MOBILE ADHOC NETWORKS](EC2050%20-%20Mobile%20Adhoc%20Networks/readme.md) | 3 | D | 6 | APR 2016 |
 | 08 | EC2451 | [PROJECT WORK](EC2451%20-%20Project%20Work/readme.md) | 6 | S | 10 | APR 2016 |
+
+---
+
+
+> I, **Gobal Krishnan V**, have completed a Bachelor of Engineering degree in **Electronics and Communication Engineering** under the Faculty of Information and Communication Engineering from **Anna University**. I successfully fulfilled all academic requirements and was awarded the degree in **November 2017 with a CGPA of 7.55**, securing **Second Class**.
+
+| | | | | | 
+|---|--- |--- |--- |---| 
+| [![Watch the video](https://img.youtube.com/vi/AHokfzRiIis/hqdefault.jpg)](https://youtu.be/AHokfzRiIis?si=u5HQEK-ajDebJ2-8) | [![Watch the video](https://img.youtube.com/vi/a46jZVp8hcg/hqdefault.jpg)](https://youtu.be/a46jZVp8hcg?si=cH97EuXntPV7cBsg) |  [![Watch the video](https://img.youtube.com/vi/kvnu1iSCRy8/hqdefault.jpg)](https://youtu.be/kvnu1iSCRy8?si=nikdq_bi18hVm-hA) | [![Watch the video](https://img.youtube.com/vi/299SsDM4ZZE/hqdefault.jpg)](https://youtu.be/299SsDM4ZZE?si=b1lvnsKzoUDgpEqm) | [![Watch the video](https://img.youtube.com/vi/J4BBVjM9S6A/hqdefault.jpg)](https://youtu.be/J4BBVjM9S6A?si=PMcKCjDHMfMW3vl1) |
+
+
+| ![degree certificate](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/degree%20certificate.jpg) | [![Watch the video](https://img.youtube.com/vi/5VbafMCWDnU/maxresdefault.jpg)](https://youtu.be/5VbafMCWDnU?si=zPPv8pCR2iL8Az4u) |
+| :---: | :---:  |
+| [![Watch the video](https://img.youtube.com/vi/7g5qlmZmuAA/hqdefault.jpg)](https://youtu.be/7g5qlmZmuAA?si=K9jqmeBSh-p1nt2j) | [![Watch the video](https://img.youtube.com/vi/Bs5BEtS4c8c/hqdefault.jpg)](https://youtu.be/Bs5BEtS4c8c?si=aMan8xAN5sdsun-X) |
+
+
+# ChatGPT, Gemini AI help me to find the truth
+
+> I Learned based Education System, give more credit to theory, not on Practical, since i finished schooling in 2012, current system are different in learning method with simulation based learning the education in different all over the world. but they only changed system in 2020, even though many state of country not accepting the new system of education.
+
+> I Graduated in 2017, I have arrears in engineering on **[sem 5 - Computer Architecture and Organization]**, **[sem 6 - Measurement and Instruments]**, **[sem 7 - Wireless Communication]**, **[sem 8 - Wireless Network, Mobile Adhoc Network]** this are theory paper. I finally cleared those paper in 2017.
+
+> My batch in engineering is 2012-2016, due to this arrears, 1 year taken to completed (i.e) 2017, I have completed.
+
+> I believed college professor , principle are really help for education. but are selfish. I not saying wrong them, since, I am also selfish. I too think to secure myself. I should predict this before 2012. so my 2012 to 2026 years are Wasted. 
+
+ 
+
+# GOBAL KRISHNAN V, BORN 18-06-1995
+### ELECTRONICS AND COMMUNICATION ENGINEER
+### ANALYSIS AND EVALUATE THE GRADES
+
+- (important statement) But, Anna University Affiliated (T.J.S Engineering College) said to buy the Final year project only from outside 'Project Center'. I not done that.  Otherwise they said 'fail in exam'.  so given money to buy the Final year project
+-  08 - EC2451 - PROJECT WORK - APR 2016 - is not my work - they forced to buy from project center. 
+-  **Hand Gesture Based Motor Control** – A final year project using a Raspberry Pi board, camera, and DC motor, with OpenCV’s Haar Cascade algorithm to detect the hand palm and control motor rotation (left, right, up, down) based on hand movement in a 2D coordinate system.
+-  Unwanted paid money for college, Books & Doc are Totally waste, Since - [No] Knowledge gain. - Money Wasted - Time Wasted - Even if you have talent, you fail due to some unknown people. or society poilitcal issue.
+---
+
+| Problem 1 | Problem 2 | Problem 3 |
+|--- | --- | ---  |
+| [![Watch the video](https://img.youtube.com/vi/gF9EwcG0dfg/mqdefault.jpg)](https://youtu.be/gF9EwcG0dfg) | [![Watch the video](https://img.youtube.com/vi/67bWBbxmSmU/mqdefault.jpg)](https://youtu.be/67bWBbxmSmU) | [![Watch the video](https://img.youtube.com/vi/5w7XyiTnGpk/mqdefault.jpg)](https://youtu.be/5w7XyiTnGpk) |
+
+---
+
