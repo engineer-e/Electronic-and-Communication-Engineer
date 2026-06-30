@@ -73,7 +73,7 @@ Books
 
 > I, **Gobal Krishnan V**, have completed a Bachelor of Engineering degree in **Electronics and Communication Engineering** under the Faculty of Information and Communication Engineering from **Anna University**. I successfully fulfilled all academic requirements and was awarded the degree in **November 2017 with a CGPA of 7.55**, securing **Second Class**.
 
-| [![Watch the video](https://img.youtube.com/vi/FgGIKvvjhRc/hqdefault.jpg)](https://youtu.be/FgGIKvvjhRc?si=tW8SPBkC6RZr7wPr)| [![Watch the video](https://img.youtube.com/vi/onfQEO4StKI/hqdefault.jpg)](https://youtu.be/onfQEO4StKI?si=nN25E_8iarzcsAIV)| | | | 
+| [![Watch the video](https://img.youtube.com/vi/FgGIKvvjhRc/hqdefault.jpg)](https://youtu.be/FgGIKvvjhRc?si=tW8SPBkC6RZr7wPr)| [![Watch the video](https://img.youtube.com/vi/onfQEO4StKI/hqdefault.jpg)](https://youtu.be/onfQEO4StKI?si=nN25E_8iarzcsAIV)| [![Watch the video](https://img.youtube.com/vi/5t10TueJeCE/hqdefault.jpg)](https://youtu.be/5t10TueJeCE?si=01zx0jCddGeeHcAA) | | | 
 |---|--- |--- |--- |---| 
 | [![Watch the video](https://img.youtube.com/vi/AHokfzRiIis/hqdefault.jpg)](https://youtu.be/AHokfzRiIis?si=u5HQEK-ajDebJ2-8) | [![Watch the video](https://img.youtube.com/vi/a46jZVp8hcg/hqdefault.jpg)](https://youtu.be/a46jZVp8hcg?si=cH97EuXntPV7cBsg) |  [![Watch the video](https://img.youtube.com/vi/kvnu1iSCRy8/hqdefault.jpg)](https://youtu.be/kvnu1iSCRy8?si=nikdq_bi18hVm-hA) | [![Watch the video](https://img.youtube.com/vi/299SsDM4ZZE/hqdefault.jpg)](https://youtu.be/299SsDM4ZZE?si=b1lvnsKzoUDgpEqm) | [![Watch the video](https://img.youtube.com/vi/J4BBVjM9S6A/hqdefault.jpg)](https://youtu.be/J4BBVjM9S6A?si=PMcKCjDHMfMW3vl1) |
 
