@@ -4,15 +4,15 @@ Books
 |Sem| Course Code | Course Title | C | LG | GP | Month & Year of Passing |
 | --- | --- | --- | --- | --- | --- | --- |
 | 01  | CY2111 | [Engineering Chemistry - I](CY2111%20-%20Engineering%20Chemistry%201%20/readme.md) | 3 | C | 7 | Jan 2013 |
-|01|GE2111 | Engineering Graphics | 5 | A | 9 | Jan 2013 |
-| 01 | GE2111 | Fundamentals of Computing and Programming | 3 | B | 8 | Jan 2013 |
-|01 | HS2111 | Technical English - 1 | 4 | C | 7 | Jan 2013 |
-|01| MA2111 | Mathematics - I | 4 | A | 9 | Jan 2013 |
-| 01 | PH2111 | Engineering Physics - I | 3 | C | 7 | Jan 2013 |
-| 01 | GE2115 | Computer Practice Laboratory - I | 2 | A |9|Jan 2013 |
-| 01 | GE2116 | Engineering Practice Laboratory | 2 | A | 9 |  Jan 2013 |
-|02 | CY2161 | Engineering Chemistry - II | 3 | C | 7 | APR 2013 |
-|02 | EC2151 | Electric Circuits and Electron Devices | 4 | E | 5 | APR 2013   |
+|01|GE2111 | [Engineering Graphics](GE2111%20-%20Engineering%20Graphics/readme.md) | 5 | A | 9 | Jan 2013 |
+| 01 | GE2111 | [Fundamentals of Computing and Programming](GE2111%20-%20Fundamentals%20of%20Computing%20and%20Programming/readme.md) | 3 | B | 8 | Jan 2013 |
+|01 | HS2111 | [Technical English - 1](HS2111%20-%20Technical%20English%201/readme.md) | 4 | C | 7 | Jan 2013 |
+|01| MA2111 | [Mathematics - I](MA2111%20-%20Mathematics%201/readme.md) | 4 | A | 9 | Jan 2013 |
+| 01 | PH2111 | [Engineering Physics - I](PH2111%20-%20Engineering%20Physics%201/readme.md) | 3 | C | 7 | Jan 2013 |
+| 01 | GE2115 | [Computer Practice Laboratory - I](GE2115%20-%20Computer%20Practice%20Laboratory%201/readme.md) | 2 | A |9|Jan 2013 |
+| 01 | GE2116 | [Engineering Practice Laboratory](GE2116%20-%20Engineering%20Practice%20Laboratory/readme.md) | 2 | A | 9 |  Jan 2013 |
+|02 | CY2161 | [Engineering Chemistry - II](CY2161%20-%20Engineering%20Chemistry%202/readme.md) | 3 | C | 7 | APR 2013 |
+|02 | EC2151 | [Electric Circuits and Electron Devices](EC2151%20-%20Electric%20Circuits%20and%20Electron%20Devices/readme.md) | 4 | E | 5 | APR 2013   |
 |02 | GE2152 | Basic Civil & Mechanical Engineering | 4 | C | 7 | APR 2013  |
 |02 | HS2161 | Technical English - II | 4 | C | 7 | APR 2013  |
 |02 | MA2161 | Mathematics - II | 4 | A | 9 | APR 2013  |
