@@ -3,7 +3,7 @@ Books
 
 |Sem| Course Code | Course Title | C | LG | GP | Month & Year of Passing |
 | --- | --- | --- | --- | --- | --- | --- |
-| 01  | CY2111 | Engineering Chemistry - I | 3 | C | 7 | Jan 2013 |
+| 01  | CY2111 | [Engineering Chemistry - I](CY2111%20-%20Engineering%20Chemistry%201%20/readme.md) | 3 | C | 7 | Jan 2013 |
 |01|GE2111 | Engineering Graphics | 5 | A | 9 | Jan 2013 |
 | 01 | GE2111 | Fundamentals of Computing and Programming | 3 | B | 8 | Jan 2013 |
 |01 | HS2111 | Technical English - 1 | 4 | C | 7 | Jan 2013 |
