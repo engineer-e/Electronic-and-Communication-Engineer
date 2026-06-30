@@ -6,7 +6,7 @@ Books
 
 |  | |
 | --- | ---  |
-| ![degree certificate](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/degree%20certificate.jpg) | [![Watch the video](https://img.youtube.com/vi/5VbafMCWDnU/maxresdefault.jpg)](https://youtu.be/5VbafMCWDnU?si=zPPv8pCR2iL8Az4u) [![Watch the video](https://img.youtube.com/vi/a46jZVp8hcg/default.jpg)](https://youtu.be/a46jZVp8hcg?si=cH97EuXntPV7cBsg) [![Watch the video](https://img.youtube.com/vi/kvnu1iSCRy8/default.jpg)](https://youtu.be/kvnu1iSCRy8?si=nikdq_bi18hVm-hA) [![Watch the video](https://img.youtube.com/vi/299SsDM4ZZE/default.jpg)](https://youtu.be/299SsDM4ZZE?si=b1lvnsKzoUDgpEqm)|
+| ![degree certificate](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/degree%20certificate.jpg) | [![Watch the video](https://img.youtube.com/vi/5VbafMCWDnU/maxresdefault.jpg)](https://youtu.be/5VbafMCWDnU?si=zPPv8pCR2iL8Az4u) [![Watch the video](https://img.youtube.com/vi/a46jZVp8hcg/default.jpg)](https://youtu.be/a46jZVp8hcg?si=cH97EuXntPV7cBsg) [![Watch the video](https://img.youtube.com/vi/kvnu1iSCRy8/default.jpg)](https://youtu.be/kvnu1iSCRy8?si=nikdq_bi18hVm-hA) [![Watch the video](https://img.youtube.com/vi/299SsDM4ZZE/default.jpg)](https://youtu.be/299SsDM4ZZE?si=b1lvnsKzoUDgpEqm) [![Watch the video](https://img.youtube.com/vi/J4BBVjM9S6A/default.jpg)](https://youtu.be/J4BBVjM9S6A?si=PMcKCjDHMfMW3vl1)|
 
 # ChatGPT, Gemini AI help me to find the truth
 
