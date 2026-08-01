@@ -1,5 +1,8 @@
 # Electronic-and-Communication-Engineer
-Books
+
+
+> Books, **This is only for those who are interested in learning. Just as we check an individual's profile, we should also check a college's ranking using [EduRank](https://edurank.org/).** 🎓📚🏫
+
 
 |Sem| Course Code | Course Title | C | LG | GP | Month & Year of Passing | Book |
 | --- | --- | --- | --- | --- | --- | --- | --- |
