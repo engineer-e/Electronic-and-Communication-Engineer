@@ -100,6 +100,14 @@ Books
 ### ANALYSIS AND EVALUATE THE GRADES
 
 - (important statement) But, Anna University Affiliated (T.J.S Engineering College) said to buy the Final year project only from outside 'Project Center'. I not done that.  Otherwise they said 'fail in exam'.  so given money to buy the Final year project
+- But for my **7th Semester Semi-Final Project** year (2015-2016), I planned to build a **Cow Robot**. However, due to financial constraints at that time, I couldn't complete the project as planned. Unfortunately, it did not work during the final demonstration, and I lost credit for the project.
+
+- I made the robot's outer body using paper fold sheets. The project was intended to look like the robot shown in the video below. If you click the video, it will take you to the YouTube video. However, I was not done this robot below.
+
+
+[![Watch the video](https://img.youtube.com/vi/ZX17mcpGfp8/maxresdefault.jpg)](https://youtu.be/ZX17mcpGfp8?si=Rzwv23TWMAn6AVM7)
+
+
 -  08 - EC2451 - PROJECT WORK - APR 2016 - is not my work - they forced to buy from project center. 
 -  **Hand Gesture Based Motor Control** – A final year project using a Raspberry Pi board, camera, and DC motor, with OpenCV’s Haar Cascade algorithm to detect the hand palm and control motor rotation (left, right, up, down) based on hand movement in a 2D coordinate system.
 -  Unwanted paid money for college, Books & Doc are Totally waste, Since - [No] Knowledge gain. - Money Wasted - Time Wasted - Even if you have talent, you fail due to some unknown people. or society poilitcal issue.
