@@ -132,8 +132,9 @@
 
 | Servo Motor | LTSpice | KiCad | 
 | :---: | :---: | :---: |
-| [![Watch the video](https://img.youtube.com/vi/xe56q9L2fvU/default.jpg)](https://youtu.be/xe56q9L2fvU?si=LUhVWaOidFEZxxkk) |  |  |
+| [![Watch the video](https://img.youtube.com/vi/xe56q9L2fvU/default.jpg)](https://youtu.be/xe56q9L2fvU?si=LUhVWaOidFEZxxkk) | No proper tutorial  | KiCad (Udemy) not getting about inner depth in the design. |
 
+**Note** - Not Getting Proper Tutorial Series, I learned from   for LTSpice (youtube) , KiCad (Udemy)
 ---
 
 -  08 - EC2451 - PROJECT WORK - APR 2016 - is not my work - they forced to buy from project center. 
