@@ -1,7 +1,7 @@
 # Electronic-and-Communication-Engineer
 
 
-> Books, **This is only for those who are interested in learning. Just as we check an individual's profile, we should also check a college's ranking using [EduRank](https://edurank.org/).** 🎓📚🏫
+> Books, **This is only for those who are interested in learning. Just as we check an individual's profile, we should also check a college's ranking using [EduRank](https://edurank.org/).** 🎓📚🏫 
 
 
 |Sem| Course Code | Course Title | C | LG | GP | Month & Year of Passing | Book |
@@ -127,6 +127,8 @@
 ---
 
 # Before Doing the Project, required CAD & ECAD & PCB board design.
+
+1. [CAD Software Tutorial](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
 
 | Servo Motor | LTSpice | KiCad | 
 | :---: | :---: | :---: |
