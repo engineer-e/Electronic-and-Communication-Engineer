@@ -126,6 +126,14 @@
 
 ---
 
+# Before Doing the Project, required CAD & ECAD & PCB board design.
+
+| Servo Motor | LTSpice | KiCad | 
+| :---: | :---: | :---: |
+| [![Watch the video](https://img.youtube.com/vi/xe56q9L2fvU/default.jpg)](https://youtu.be/xe56q9L2fvU?si=LUhVWaOidFEZxxkk) |  |  |
+
+---
+
 -  08 - EC2451 - PROJECT WORK - APR 2016 - is not my work - they forced to buy from project center. 
 -  **Hand Gesture Based Motor Control** – A final year project using a Raspberry Pi board, camera, and DC motor, with OpenCV’s Haar Cascade algorithm to detect the hand palm and control motor rotation (left, right, up, down) based on hand movement in a 2D coordinate system.
 -  Unwanted paid money for college, Books & Doc are Totally waste, Since - [No] Knowledge gain. - Money Wasted - Time Wasted - Even if you have talent, you fail due to some unknown people. or society poilitcal issue.
