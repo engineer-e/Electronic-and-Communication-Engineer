@@ -132,7 +132,7 @@
 
 | Servo Motor | LTSpice | KiCad | 
 | :---: | :---: | :---: |
-| [![Watch the video](https://img.youtube.com/vi/xe56q9L2fvU/default.jpg)](https://youtu.be/xe56q9L2fvU?si=LUhVWaOidFEZxxkk) | No proper tutorial  | KiCad (Udemy) not getting about inner depth in the design. |
+| [![Watch the video](https://img.youtube.com/vi/xe56q9L2fvU/default.jpg)](https://youtu.be/xe56q9L2fvU?si=LUhVWaOidFEZxxkk) | No proper tutorial  | [KiCad (Udemy)](https://www.udemy.com/share/105u0c3@uS4u8aMuEXSDpp8x6l5Jk98avHcFzJ9slmVlf-0QLyyWtM5Xk0xr5DBkZpXKnbO_Rw==/) not getting about inner depth in the design. |
 
 **Note** - Not Getting Proper Tutorial Series, I learned from   for LTSpice (youtube) , KiCad (Udemy)
 ---
