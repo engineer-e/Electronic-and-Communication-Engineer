@@ -130,9 +130,9 @@
 
 1. [CAD Software Tutorial](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
 
-| Servo Motor | LTSpice | KiCad | 
+| Servo Motor | LTSpice  | KiCad | 
 | :---: | :---: | :---: |
-| [![Watch the video](https://img.youtube.com/vi/xe56q9L2fvU/default.jpg)](https://youtu.be/xe56q9L2fvU?si=LUhVWaOidFEZxxkk) | No proper tutorial  | [KiCad (Udemy)](https://www.udemy.com/share/105u0c3@uS4u8aMuEXSDpp8x6l5Jk98avHcFzJ9slmVlf-0QLyyWtM5Xk0xr5DBkZpXKnbO_Rw==/) not getting about inner depth in the design. |
+| [![Watch the video](https://img.youtube.com/vi/xe56q9L2fvU/default.jpg)](https://youtu.be/xe56q9L2fvU?si=LUhVWaOidFEZxxkk) | No proper tutorial  | [KiCad (Udemy)](https://www.udemy.com/share/105u0c3@uS4u8aMuEXSDpp8x6l5Jk98avHcFzJ9slmVlf-0QLyyWtM5Xk0xr5DBkZpXKnbO_Rw==/) not getting about inner depth in the design. [completed](https://book-g.github.io/KiCad/) |
 
 **Note** - Not Getting Proper Tutorial Series, I learned from   for LTSpice (youtube) , KiCad (Udemy)
 ---
