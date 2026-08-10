@@ -1,5 +1,6 @@
 # Electronic-and-Communication-Engineer
 
+
 <details>
  <summary>Story 👤</summary>
 
@@ -416,7 +417,18 @@ Because in the end,
 
 # **Only Truth Wins. 🕉️⚖️❤️**
 
+---
+
+I entered **T.J.S. Engineering College** for B.E. Electronics and Communication Engineering in **2012** 🎓📡, believing that my professors and the institution would guide me not only to pass university examinations 📝, but also to become an engineer capable of practical work 🔧, meaningful projects 🛠️, research 🔬, and independent learning 📚. During my engineering years, however, I did not understand how research worked, how to find and study research papers 📄, how professors developed research, how papers could be published through academic channels such as **IEEE and scholarly databases** 🌐, or how a student could build a genuine research-oriented project. I now understand that **Anna University** had faculty and researchers involved in academic research and publications 🎓🔬, but during my own time at the affiliated college, I did not receive the same level of awareness or guidance about research and academic opportunities. My education was largely experienced through the prescribed syllabus 📚, university examinations 📝, laboratories 🧪, and project requirements 🛠️, and I was not taught how to connect these subjects into independent engineering work. I also had arrears in several theory subjects and ultimately completed my degree in **2017** 🎓. Most importantly, I have stated that my final-year project was obtained through an outside project centre after I was told that this was necessary, rather than receiving the opportunity to independently develop and validate the project myself 🔧🧪. Because I was young and did not know what I was supposed to ask for, I trusted the system 🤝 and did not understand the significance of what I was missing. After graduation, I gradually forgot many of the concepts I had studied 🧠📚, and only years later, through my **own interest and self-directed learning** 🚀, did I begin discovering research, simulation, ray tracing, neural networks, GPU computing and other advanced technical subjects 💻🔬🤖. This has made me question whether I received the practical and research guidance I needed during my engineering years ❓. I cannot honestly claim that every problem in my life was caused by my college, nor can I claim that every affiliated-college student had the same experience ⚖️. What I can truthfully say is that **during my own 2012–2017 engineering journey, I did not receive the research awareness, practical guidance, project mentorship and independent-learning direction that I now realize I needed** 📚🔬, and I understood the importance of these things only years after completing my degree ⏳. That is the part of my education history that I am trying to understand today—not to change the past, but to honestly document what I experienced and rebuild the knowledge and opportunities I missed. 🌱🚀 **Only truth matters. ⚖️**
+
+---
+
+
 </details>
+
+---
+
+
 
 > Books, **This is only for those who are interested in learning. Just as we check an individual's profile, we should also check a college's ranking using [EduRank](https://edurank.org/).** 🎓📚🏫 
 
