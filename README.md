@@ -6,7 +6,7 @@
 
 | English |Tamil| Malayalam |
 | --- | ---  | --- |
-| [![Watch the video](https://img.youtube.com/vi/NKSw_G3mC-U/hqdefault.jpg)](https://youtu.be/NKSw_G3mC-U?si=w3hlEApNNeXr-D7e) | [![Watch the video](https://img.youtube.com/vi/82SBUfMKw84/hqdefault.jpg)](https://youtu.be/82SBUfMKw84?si=EtK0LHokcRTcyag1) | |
+| [![Watch the video](https://img.youtube.com/vi/NKSw_G3mC-U/hqdefault.jpg)](https://youtu.be/NKSw_G3mC-U?si=w3hlEApNNeXr-D7e) | [![Watch the video](https://img.youtube.com/vi/82SBUfMKw84/hqdefault.jpg)](https://youtu.be/82SBUfMKw84?si=EtK0LHokcRTcyag1) |  [![Watch the video](https://img.youtube.com/vi/7kVB1lSbUJc/hqdefault.jpg)](https://youtu.be/7kVB1lSbUJc?si=gNJLUdV1d2YsjEOV) |
 
  # 🎓 The Education I Thought I Had
 
