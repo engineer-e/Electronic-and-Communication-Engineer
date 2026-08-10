@@ -1,5 +1,421 @@
 # Electronic-and-Communication-Engineer
 
+<details>
+ <summary>Story 👤</summary>
+# 🎓 The Education I Thought I Had
+
+My name is **Gobal Krishnan V**.
+I was born on **18 June 1995**. 👤
+
+In **2012**, I entered a Bachelor of Engineering programme in **Electronics and Communication Engineering (ECE)**. 🎓📡
+
+At that age, I believed something simple:
+
+> **If I enter engineering college, study sincerely, attend classes, complete the examinations and projects, my professors will guide me toward becoming an engineer.** 🏫👨‍🏫
+
+I trusted the system.
+I trusted my college.
+I trusted my professors.
+I did not know what I was supposed to ask for. 🤝
+
+I was a student, not an experienced engineer.
+
+---
+
+## 📚 What I Studied
+
+My ECE curriculum contained many important engineering subjects:
+
+🔹 Mathematics
+🔹 Signals and Systems
+🔹 Digital Electronics
+🔹 Electronic Circuits
+🔹 Electromagnetic Fields
+🔹 Communication Theory
+🔹 Computer Architecture
+🔹 Digital Signal Processing
+🔹 Microprocessors and Microcontrollers
+🔹 Transmission Lines and Waveguides
+🔹 Antennas
+🔹 VLSI Design
+🔹 RF and Microwave Engineering
+🔹 Optical Communication
+🔹 Wireless Communication
+🔹 Wireless Networks
+🔹 Mobile Ad Hoc Networks
+
+There was a lot of knowledge in the syllabus. 📖
+
+But later I understood something important:
+
+> **A syllabus is not the same thing as education.**
+
+Having a subject listed on paper does not automatically mean that every student deeply understood it, practically implemented it, tested it, or learned how to continue studying it independently.
+
+---
+
+## 📝 My Academic Struggles
+
+My engineering journey was not perfect.
+
+I had arrears in several theory subjects:
+
+📌 Computer Architecture and Organization
+📌 Measurements and Instrumentation
+📌 Wireless Communication
+📌 Wireless Networks
+📌 Mobile Ad Hoc Networks
+
+I eventually cleared them.
+
+My original batch was **2012–2016**, but because of the arrears, I completed my degree in **2017**. 🎓
+
+My final CGPA was **7.55**, and I received **Second Class**.
+
+That is my academic record.
+
+I don't want to hide it.
+
+I also don't want to exaggerate it.
+
+It is simply the truth. ⚖️
+
+---
+
+## 🛠️ The Project Experience
+
+One of the biggest issues in my engineering education was my final-year project.
+
+My experience was that the college/project environment pushed students toward obtaining projects from outside project centres.
+
+I eventually paid money for a project instead of independently developing the complete project myself. 💰
+
+I don't want to make claims about every person involved that I cannot prove.
+
+But I can say honestly:
+
+> **I did not receive the project-learning experience that I believe an engineering student should receive.**
+
+A genuine engineering project should teach:
+
+💡 Problem identification
+📚 Literature study
+🧮 Mathematical analysis
+💻 Programming
+🔧 Hardware/software implementation
+🧪 Experimentation
+📊 Measurement
+✅ Testing
+🔬 Validation
+🐛 Failure analysis
+🔄 Improvement
+📝 Documentation
+🎤 Technical presentation
+
+That process is extremely valuable.
+
+I needed it.
+
+I did not properly experience that complete process during my engineering education.
+
+---
+
+## 🧠 The Things I Forgot
+
+After graduation, years passed.
+
+And something else happened.
+
+I forgot many of the concepts I had studied. 😔📚
+
+At first, I felt that this meant I had failed.
+
+But later I understood that forgetting knowledge that is not regularly used is normal.
+
+Still, I began asking myself:
+
+> **“Did I actually understand these subjects deeply, or did I learn enough to pass the examinations?”**
+
+That question was painful.
+
+Because I realized that there is a difference between:
+
+📖 **Learning for an examination**
+
+and
+
+🧠 **Learning so deeply that you can use the knowledge years later.**
+
+---
+
+# 🔍 Then I Started Asking Different Questions
+
+Years later, my interests changed.
+
+I became interested in things such as:
+
+🎨 Computer Graphics
+🔦 Ray Tracing
+🧮 Numerical Methods
+🖥️ GPU Computing
+⚡ CUDA
+🤖 Neural Networks
+🔬 Optical Simulation
+📐 Engineering Simulation
+🤖 Robotics
+🧠 Artificial Intelligence
+
+These were not simply subjects I was studying for a university examination.
+
+I was learning them because **I genuinely wanted to understand them.** ❤️‍🔥
+
+Nobody was forcing me to study ray tracing.
+
+Nobody was giving me university marks for learning CUDA.
+
+Nobody was giving me a degree for understanding neural networks.
+
+I was learning because I became curious.
+
+---
+
+## 💡 Something Changed
+
+I started asking questions that I should have been asking much earlier.
+
+Instead of asking only:
+
+> **“What is the answer?”**
+
+I began asking:
+
+❓ Why does this equation work?
+❓ Can I derive it?
+❓ Can I implement it?
+❓ Can I simulate it?
+❓ Can I test it?
+❓ Can I compare it with an analytical solution?
+❓ What is the error?
+❓ Why did my implementation fail?
+❓ How can I validate the result?
+
+That changed my understanding of engineering. 🔥
+
+I began seeing engineering as:
+
+```text
+📚 Theory
+   ↓
+🧮 Mathematics
+   ↓
+💻 Implementation
+   ↓
+🔬 Experiment
+   ↓
+📊 Measurement
+   ↓
+✅ Validation
+   ↓
+📝 Documentation
+   ↓
+🔄 Improvement
+```
+
+This was very different from simply preparing for an examination.
+
+---
+
+# ⚖️ What About Justice and Dharma?
+
+This is where I still have questions.
+
+If a student enters an engineering college at 17 or 18 years old, should that student already know:
+
+🔹 how research works?
+🔹 how to find scientific papers?
+🔹 how to select a research problem?
+🔹 how to design an experiment?
+🔹 how to validate a simulation?
+🔹 how to build a real engineering project?
+🔹 how to plan a career?
+
+Probably not.
+
+That is partly why education exists.
+
+A student needs guidance. 👨‍🏫
+
+So I believe there is a legitimate question:
+
+> **If students were not properly guided in these areas, did the education system give them the opportunity it was supposed to give them?**
+
+I don't want to answer that question with anger alone.
+
+I want evidence. 🔎
+
+I want to look at:
+
+📄 University regulations
+📄 College documents
+📄 Faculty records
+📄 Laboratory facilities
+📄 Project guidelines
+📄 Workshops
+📄 Student activities
+📄 Publications
+📄 Research facilities
+
+Then compare what was officially available with what students actually experienced.
+
+Because **truth requires evidence.** ⚖️
+
+---
+
+# 🕰️ Did I Waste My Time?
+
+This is probably the hardest question.
+
+I lost years.
+
+I forgot knowledge.
+
+I had gaps in my education.
+
+I made mistakes.
+
+There were things I wish I had learned much earlier.
+
+And I cannot go back to **2012**. 🕰️
+
+I cannot become my younger self again.
+
+I cannot recover every opportunity.
+
+But I also cannot honestly say that **every year of my life was completely wasted because of my college**.
+
+That would be unfair.
+
+My own decisions mattered too.
+
+My circumstances mattered.
+
+My mistakes mattered.
+
+Other events in my life mattered.
+
+Truth means accepting all of these things. ⚖️
+
+---
+
+# 🌱 What I Can Do Now
+
+I cannot change my past.
+
+But I can change what happens next.
+
+I can rebuild the knowledge I forgot. 📚
+
+I can learn mathematics again. 🧮
+
+I can revisit electromagnetics. ⚡
+
+I can learn optics. 🔬
+
+I can build a ray tracer. 🔦
+
+I can study numerical methods. 🧮
+
+I can learn GPU programming. 🖥️
+
+I can study neural networks. 🤖
+
+I can perform experiments. 🧪
+
+I can validate my results. ✅
+
+I can document everything. 📝
+
+And eventually, perhaps, I can produce something that is genuinely my own. 🚀
+
+---
+
+# ❤️ The Truth
+
+I am not writing this story to say:
+
+> **“I was perfect.”**
+
+I wasn't.
+
+I am not writing it to say:
+
+> **“My college was entirely bad.”**
+
+I cannot honestly claim that either.
+
+I am not writing it to say:
+
+> **“Everyone else was wrong.”**
+
+I don't know that.
+
+I am writing because I want to understand what really happened. 🔎
+
+I was a young student who trusted the education system.
+
+I completed my degree.
+
+I forgot many things.
+
+Years later, I discovered how much more there was to learn.
+
+And now I am trying to learn it.
+
+Not because an examination requires it. 📝❌
+
+Not because someone promised me marks. 🎯❌
+
+Not because someone told me to do it. 👨‍🏫❌
+
+But because **I genuinely want to understand.** ❤️‍🔥
+
+Perhaps that is the education I am finally beginning now.
+
+---
+
+## 🌅 The Story Is Not Finished
+
+The past cannot be rewritten.
+
+**2012 cannot become 2026.**
+
+But 2026 can become the beginning of something new. 🌱
+
+I may have forgotten many things.
+
+But I have not forgotten how to ask questions.
+
+I may have lost years.
+
+But I have not lost the ability to learn.
+
+I may not know everything.
+
+But I can continue.
+
+And I will try to keep one principle above everything else:
+
+> **🕉️ Truth before ego.
+> ⚖️ Evidence before accusation.
+> 📚 Learning before pride.
+> 🔬 Validation before assumption.
+> ❤️ And honesty before everything else.**
+
+Because in the end,
+
+# **Only Truth Wins. 🕉️⚖️❤️**
+
+</details>
 
 > Books, **This is only for those who are interested in learning. Just as we check an individual's profile, we should also check a college's ranking using [EduRank](https://edurank.org/).** 🎓📚🏫 
 
