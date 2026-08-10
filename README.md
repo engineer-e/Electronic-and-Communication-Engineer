@@ -2,7 +2,8 @@
 
 <details>
  <summary>Story 👤</summary>
-# 🎓 The Education I Thought I Had
+
+ # 🎓 The Education I Thought I Had
 
 My name is **Gobal Krishnan V**.
 I was born on **18 June 1995**. 👤
