@@ -672,3 +672,178 @@ The YouTube links below search for relevant lectures by named instructors or est
 - PhD status: The table does not certify every instructor's doctorate. If you want that information, it should be checked separately against an official university or professional biography.
 
 My recommendation: Start with the fundamentals that connect many ECE subjects — mathematics, circuits, signals and systems, digital electronics, and programming. Then progress to DSP, communications, computer architecture, and VLSI. This will also provide a stronger foundation if you later pursue research in AI, GPU computing or EDA.
+
+---
+
+Understood. You want real engineers, professors, and researchers who demonstrate the subject practically on YouTube — not just a university channel or a search for lecture videos.
+
+For example:
+
+- Ben Eater — builds and explains computer hardware through hands-on projects.
+- Prof. Shanthi Pavan — teaches analog and mixed-signal circuit design, including the theory behind real integrated circuits.
+
+For your syllabus, I’ll prioritize people who demonstrate circuits, breadboards, oscilloscopes, simulation software, FPGA/Verilog, microcontrollers, antennas, DSP and communication systems. I’ll preserve your original course list and add a practical expert and channel link for each subject.
+
+Exactly — you want practitioner-teachers who show how things work, rather than channels that only explain slides.
+
+A useful distinction for your syllabus:
+
+- Hands-on builder: Ben Eater, Afrotechmods, Phil’s Lab, Robert Feranec and W2AEW demonstrate hardware, circuits, measurement or design workflows.
+- Research expert: Prof. Shanthi Pavan teaches analog circuits and integrated-circuit design through IIT Madras lectures and courses. These are rigorous expert lectures, not necessarily breadboard demonstrations.&#x20;
+
+  [image](https://www.google.com/s2/favicons?domain=https://www.ee.iitm.ac.in\&sz=32)
+
+  EE, IITM
+
+  +3
+
+
+
+Here is the kind of matching I’ll use in the added column: practical people for laboratory subjects, and specialist instructors for mathematical or theory-heavy subjects.
+
+## Practical expert / YouTube column for your original syllabus
+
+I’ve kept your course details below and added a final column. “Practical” means the creator demonstrates or implements something; “specialist lectures” means the person teaches the underlying theory at an advanced level.
+
+| Sem | Course Code | Course Title                                                                                                                                                                                                                | C | LG | GP | Month & Year of Passing | Book | Real person / YouTube channel / course                                                                                                        |
+| --- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | -- | -- | ----------------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | CY2111      | [Engineering Chemistry - I](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/CY2111%20-%20Engineering%20Chemistry%201%20/readme.md)                                                            | 3 | C  | 7  | Jan 2013                |      | [NileRed — chemistry experiments](https://www.youtube.com/@NileRed)                                                                           |
+| 01  | GE2111      | [Engineering Graphics](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/GE2111%20-%20Engineering%20Graphics/readme.md)                                                                         | 5 | A  | 9  | Jan 2013                |      | [SourceCAD — engineering drawing and CAD](https://www.youtube.com/results?search_query=SourceCAD+engineering+drawing+practical)               |
+| 01  | GE2111      | [Fundamentals of Computing and Programming](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/GE2111%20-%20Fundamentals%20of%20Computing%20and%20Programming/readme.md)                         | 3 | B  | 8  | Jan 2013                |      | [Ben Eater — computer fundamentals](https://www.youtube.com/@BenEater)                                                                        |
+| 01  | HS2111      | [Technical English - 1](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/HS2111%20-%20Technical%20English%201/readme.md)                                                                       | 4 | C  | 7  | Jan 2013                |      | [Alex Lyon — communication skills](https://www.youtube.com/results?search_query=Alex+Lyon+communication+skills)                               |
+| 01  | MA2111      | [Mathematics - I](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/MA2111%20-%20Mathematics%201/readme.md)                                                                                     | 4 | A  | 9  | Jan 2013                |      | [3Blue1Brown — visual mathematics](https://www.youtube.com/@3blue1brown)                                                                      |
+| 01  | PH2111      | [Engineering Physics - I](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/PH2111%20-%20Engineering%20Physics%201/readme.md)                                                                   | 3 | C  | 7  | Jan 2013                |      | [Veritasium — physics demonstrations](https://www.youtube.com/@veritasium)                                                                    |
+| 01  | GE2115      | [Computer Practice Laboratory - I](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/GE2115%20-%20Computer%20Practice%20Laboratory%201/readme.md)                                               | 2 | A  | 9  | Jan 2013                |      | [freeCodeCamp — programming projects](https://www.youtube.com/@freecodecamp)                                                                  |
+| 01  | GE2116      | [Engineering Practice Laboratory](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/GE2116%20-%20Engineering%20Practice%20Laboratory/readme.md)                                                 | 2 | A  | 9  | Jan 2013                |      | [Practical engineering workshop demonstrations](https://www.youtube.com/results?search_query=engineering+workshop+practical+demonstration)    |
+| 02  | CY2161      | [Engineering Chemistry - II](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/CY2161%20-%20Engineering%20Chemistry%202/readme.md)                                                              | 3 | C  | 7  | APR 2013                |      | [NileRed — chemistry experiments](https://www.youtube.com/@NileRed)                                                                           |
+| 02  | EC2151      | [Electric Circuits and Electron Devices](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2151%20-%20Electric%20Circuits%20and%20Electron%20Devices/readme.md)                               | 4 | E  | 5  | APR 2013                |      | [Afrotechmods — components and circuits](https://www.youtube.com/@Afrotechmods)                                                               |
+| 02  | GE2152      | [Basic Civil & Mechanical Engineering](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/GE2152%20-%20Basic%20Civil%20%26%20Mechanical%20Engineering/readme.md)                                 | 4 | C  | 7  | APR 2013                |      | [The Engineering Mindset — systems demonstrations](https://www.youtube.com/@TheEngineeringMindset)                                            |
+| 02  | HS2161      | [Technical English - II](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/HS2161%20-%20Technical%20English%202/readme.md)                                                                      | 4 | C  | 7  | APR 2013                |      | [Alex Lyon — professional communication](https://www.youtube.com/results?search_query=Alex+Lyon+professional+communication)                   |
+| 02  | MA2161      | [Mathematics - II](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/MA2161%20-%20Mathematics%202/readme.md)                                                                                    | 4 | A  | 9  | APR 2013                |      | [3Blue1Brown — calculus and linear algebra](https://www.youtube.com/@3blue1brown)                                                             |
+| 02  | PH2161      | [Engineering Physics - II](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/PH2161%20-%20Engineering%20Physics%202/readme.md)                                                                  | 3 | B  | 8  | APR 2013                |      | [Veritasium — physics demonstrations](https://www.youtube.com/@veritasium)                                                                    |
+| 02  | EC2155      | [Circuits and Devices Laboratory](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2155%20-%20Circuits%20and%20Devices%20Laboratory/readme.md)                                               | 2 | S  | 10 | APR 2013                |      | [W2AEW — test equipment and electronics](https://www.youtube.com/user/w2aew)                                                                  |
+| 02  | GE2155      | [Computer Practice Laboratory - II](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/GE2155%20-%20Computer%20Practice%20Laboratory%202/readme.md)                                              | 2 | A  | 9  | APR 2013                |      | [freeCodeCamp — programming practicals](https://www.youtube.com/@freecodecamp)                                                                |
+| 02  | GS2165      | [Physics and Chemistry Laboratory](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/GE2165%20-%20Physics%20and%20Chemistry%20Laboratory/readme.md)                                             | 2 | S  | 10 | APR 2013                |      | [NPTEL — laboratory demonstrations](https://www.youtube.com/@nptelhrd)                                                                        |
+| 03  | EC2201      | [Electrical Engineering](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2201%20-%20Electrical%20Engineering/readme.md)                                                                     | 3 | B  | 8  | NOV 2013                |      | [The Engineering Mindset — electrical systems](https://www.youtube.com/@TheEngineeringMindset)                                                |
+| 03  | EC2202      | [Data Structures and Object Oriented Programming in C++](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2202%20-%20Data%20Structures%20and%20OOPS%20in%20cpp/readme.md)                    | 3 | E  | 5  | NOV 2013                |      | [The Cherno — C++ programming](https://www.youtube.com/@TheCherno)                                                                            |
+| 03  | EC2203      | [Digital Electronics](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2203%20-%20Digital%20Electronics/readme.md)                                                                           | 4 | C  | 7  | NOV 2013                |      | [Ben Eater — logic gates and an 8-bit CPU](https://www.youtube.com/@BenEater)                                                                 |
+| 03  | EC2204      | [Signals and Systems](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2204%20-%20Signals%20and%20Systems/readme.md)                                                                         | 4 | E  | 5  | NOV 2013                |      | [Neso Academy — Signals and Systems](https://www.nesoacademy.org/ec/02-signalsandsystems)                                                     |
+| 03  | EC2205      | [Electronic Circuits - I](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2205%20-%20Electronic%20Circuits%201/readme.md)                                                                   | 4 | E  | 5  | NOV 2013                |      | [Afrotechmods — transistors and amplifiers](https://www.youtube.com/@Afrotechmods)                                                            |
+| 03  | MA2211      | [Transforms and Partial Differential Equations](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/MA2211%20-%20Transforms%20and%20Partial%20Differential%20Equations/readme.md)                 | 4 | S  | 10 | NOV 2013                |      | [3Blue1Brown — Fourier transforms and mathematics](https://www.youtube.com/@3blue1brown)                                                      |
+| 03  | EC2207      | [Digital Electronics Lab](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2207%20-%20Digital%20Electronics%20Lab/readme.md)                                                                 | 2 | S  | 10 | NOV 2013                |      | [Ben Eater — breadboard logic circuits](https://www.youtube.com/@BenEater)                                                                    |
+| 03  | EC2208      | [Electronics Circuits Lab - I](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2208%20-%20Electronics%20Circuit%20Lab%201/readme.md)                                                        | 2 | S  | 10 | NOV 2013                |      | [W2AEW — real circuit testing](https://www.youtube.com/user/w2aew)                                                                            |
+| 03  | EC2209      | [Data Structures and Object Oriented Programming Lab](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2209%20-%20Data%20Structures%20and%20Object%20Oriented%20Programming%20Lab/readme.md) | 2 | S  | 10 | NOV 2013                |      | [The Cherno — C++ coding projects](https://www.youtube.com/@TheCherno)                                                                        |
+| 04  | EC2251      | [Electronics Circuits II](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2251%20-%20Electronics%20Circuit%202/readme.md)                                                                   | 4 | B  | 8  | APR 2014                |      | [Afrotechmods — analog circuit builds](https://www.youtube.com/@Afrotechmods)                                                                 |
+| 04  | EC2252      | [Communication Theory](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2252%20-%20Communication%20Theory/readme.md)                                                                         | 4 | B  | 8  | APR 2014                |      | [NPTEL — communication systems](https://www.youtube.com/@nptelhrd)                                                                            |
+| 04  | EC2253      | [Electromagnetic Fields](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2253%20-%20Electromagnetic%20Fields/readme.md)                                                                     | 4 | C  | 7  | APR 2014                |      | [R. K. Shevgaonkar — electromagnetic waves](https://www.youtube.com/results?search_query=R+K+Shevgaonkar+Electromagnetic+Waves)               |
+| 04  | EC2254      | [Linear Integrated Circuits](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2254%20-%20Linear%20Integrated%20Circuits/readme.md)                                                           | 3 | B  | 8  | APR 2014                |      | [Prof. Shanthi Pavan — Analog Circuits, IIT Madras](https://ee.iitm.ac.in/videolectures/doku.php?id=ec201%3Astart)                            |
+| 04  | EC2255      | [Control Systems](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2255%20-%20Control%20Systems/readme.md)                                                                                   | 3 | C  | 7  | APR 2014                |      | [Brian Douglas — Control Systems](https://www.youtube.com/@BrianBDouglas)                                                                     |
+| 04  | MA2261      | [Probability and Random Processes](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/MA2261%20-%20Probability%20and%20Random%20Processes/readme.md)                                             | 4 | E  | 5  | APR 2014                |      | [3Blue1Brown — probability](https://www.youtube.com/@3blue1brown)                                                                             |
+| 04  | EC2257      | [Electronics Circuit II and Simulation Lab](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2257%20-%20Electronics%20Circuit%202%20and%20Simulation%20Lab/readme.md)                        | 2 | S  | 10 | APR 2014                |      | [Phil's Lab — electronics design and simulation](https://www.youtube.com/@PhilsLab)                                                           |
+| 04  | EC2258      | [Linear Integrated Circuit Lab](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2258%20-%20Linear%20Integrated%20Circuit%20Lab/readme.md)                                                   | 2 | S  | 10 | APR 2014                |      | [W2AEW — op-amps and measurement](https://www.youtube.com/user/w2aew)                                                                         |
+| 04  | EC2259      | [Electrical Engineering and Control System Lab](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2259%20-%20Electrical%20Engineering%20And%20Control%20System%20Lab/readme.md)               | 2 | S  | 10 | APR 2014                |      | [Brian Douglas — control systems](https://www.youtube.com/@BrianBDouglas)                                                                     |
+| 05  | EC2301      | [Digital Communication](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2301%20-%20Digital%20Communication/readme.md)                                                                       | 3 | C  | 7  | NOV 2014                |      | [NPTEL — digital communication](https://www.youtube.com/@nptelhrd)                                                                            |
+| 05  | EC2302      | [Digital Signal Processing](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2302%20-%20Digital%20Signal%20Processing/readme.md)                                                             | 4 | C  | 7  | NOV 2014                |      | [DSP Fundamentals — DSP lessons](https://www.youtube.com/@dspfundamentals)                                                                    |
+| 05  | EC2303      | [Computer Architecture and Organization](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2303%20-%20Computer%20Architecture%20and%20Organization/readme.md)                                 | 3 | E  | 5  | APR 2015                |      | [Ben Eater — build a computer from scratch](https://www.youtube.com/@BenEater)                                                                |
+| 05  | EC2304      | [Microprocessors and Microcontrollers](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2304%20-%20Microprocessors%20and%20Microcontrollers/readme.md)                                       | 4 | C  | 7  | NOV 2014                |      | [Paul McWhorter — Arduino and microcontrollers](https://www.youtube.com/results?search_query=Paul+McWhorter+Arduino+microcontroller+tutorial) |
+| 05  | EC2305      | [Transmission Lines and Wave Guides](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2305%20-%20Transmission%20Lines%20and%20Wave%20Guides/readme.md)                                       | 4 | C  | 7  | NOV 2014                |      | [Keysight Labs — RF measurements](https://www.youtube.com/results?search_query=Keysight+Labs+transmission+lines+RF)                           |
+| 05  | GE2021      | [Environmental Science and Engineering](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/GE2021%20-%20Environmental%20Science%20and%20Engineering/readme.md)                                   | 3 | B  | 8  | NOV 2014                |      | [Practical Engineering — environment and infrastructure](https://www.youtube.com/@PracticalEngineeringChannel)                                |
+| 05  | EC2306      | [Digital Signal Processing Lab](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2306%20-%20Digital%20Signal%20Processing%20Lab/readme.md)                                                   | 2 | S  | 10 | NOV 2014                |      | [Phil's Lab — DSP, embedded and FPGA projects](https://www.youtube.com/@PhilsLab)                                                             |
+| 05  | EC2307      | [Communication System Lab](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2307%20-%20Communication%20System%20Lab/readme.md)                                                               | 2 | S  | 10 | NOV 2014                |      | [MATLAB — communication system demonstrations](https://www.youtube.com/results?search_query=MATLAB+communication+system+simulation+tutorial)  |
+| 05  | EC2308      | [Microprocessor and Microcontroller Lab](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2308%20-%20Microprocessor%20and%20Microcontroller%20Lab/readme.md)                                 | 2 | A  | 9  | NOV 2014                |      | [Paul McWhorter — hands-on Arduino](https://www.youtube.com/results?search_query=Paul+McWhorter+Arduino+projects)                             |
+| 06  | EC2351      | [Measurements and Instrumentation](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2351%20-%20Measurements%20and%20Instrumentation/readme.md)                                               | 3 | C  | 7  | APR 2016                |      | [W2AEW — oscilloscope, multimeter and instruments](https://www.youtube.com/user/w2aew)                                                        |
+| 06  | EC2352      | [Computer Networks](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2352%20-%20Computer%20Networks/readme.md)                                                                               | 3 | E  | 5  | APR 2015                |      | [Ben Eater — how the Internet works](https://www.youtube.com/@BenEater)                                                                       |
+| 06  | EC2353      | [Antenna and Wave Propagation](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2353%20-%20Antenna%20and%20Wave%20Propagation/readme.md)                                                     | 4 | E  | 5  | APR 2015                |      | [Ham Radio Crash Course — practical radio and antennas](https://www.youtube.com/results?search_query=Ham+Radio+Crash+Course+antenna+building) |
+| 06  | EC2354      | [VLSI Design](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2354%20-%20VLSI%20Design/readme.md)                                                                                           | 3 | C  | 7  | APR 2015                |      | [Phil's Lab — FPGA, PCB and digital hardware](https://www.youtube.com/@PhilsLab)                                                              |
+| 06  | MG2351      | [Principles of Management](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/MG2351%20-%20Principles%20of%20Management/readme.md)                                                               | 3 | C  | 7  | APR 2015                |      | [Stanford eCorner — entrepreneurship and management](https://www.youtube.com/results?search_query=Stanford+eCorner+management)                |
+| 06  | EC2021      | [Medical Electronics](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2021%20-%20Medical%20Electronics/readme.md)                                                                           | 3 | C  | 7  | APR 2015                |      | [Biomedical instrumentation demonstrations](https://www.youtube.com/results?search_query=biomedical+instrumentation+ECG+sensor+practical)     |
+| 06  | EC2356      | [Computer Networks Lab](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2356%20-%20Computer%20Networks%20Lab/readme.md)                                                                     | 2 | S  | 10 | APR 2015                |      | [Practical Networking — networking demonstrations](https://www.youtube.com/@PracticalNetworking)                                              |
+| 06  | EC2357      | [VLSI Design Lab](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2357%20-%20VLSI%20Design%20Lab/readme.md)                                                                                 | 2 | S  | 10 | APR 2015                |      | [Nandland — FPGA and Verilog](https://www.youtube.com/results?search_query=Nandland+FPGA+Verilog+tutorial)                                    |
+| 06  | GE2321      | [Communication Skills Laboratory](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/GE2321%20-%20Communication%20Skills%20Laboratory/readme.md)                                                 | 2 | A  | 9  | APR 2015                |      | [Toastmasters — public speaking practice](https://www.youtube.com/results?search_query=Toastmasters+public+speaking+demonstration)            |
+| 07  | EC2401      | [Wireless Communication](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2401%20-%20Wireless%20Communication/readme.md)                                                                     | 3 | E  | 5  | APR 2017                |      | [Keysight Labs — wireless and RF testing](https://www.youtube.com/results?search_query=Keysight+Labs+wireless+communication+RF+testing)       |
+| 07  | EC2402      | [Optical Communication and Networking](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2402%20-%20Optical%20Communication%20and%20Networking/readme.md)                                     | 3 | D  | 6  | NOV 2015                |      | [Fiber optic installation and testing](https://www.youtube.com/results?search_query=fiber+optic+communication+testing+practical)              |
+| 07  | EC2403      | [RF and Microwave Engineering](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2403%20-%20RF%20and%20Microwave%20Engineering/readme.md)                                                     | 3 | C  | 7  | NOV 2015                |      | [W2AEW — spectrum analyzers and RF](https://www.youtube.com/user/w2aew)                                                                       |
+| 07  | CS2060      | [High Speed Networks](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/CS2060%20-%20High%20Speed%20Networks/readme.md)                                                                         | 3 | C  | 7  | APR 2016                |      | [Practical Networking — network protocols](https://www.youtube.com/@PracticalNetworking)                                                      |
+| 07  | EC2034      | [Television and Video Engineering](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2034%20-%20Television%20and%20Video%20Engineering/readme.md)                                             | 3 | C  | 7  | NOV 2015                |      | [EEVblog — electronics and video hardware](https://www.youtube.com/@EEVblog)                                                                  |
+| 07  | GE2022      | [Total Quality Management](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/GE2022%20-%20Total%20Quality%20Management/readme.md)                                                               | 3 | C  | 7  | NOV 2015                |      | [W. Edwards Deming — quality management](https://www.youtube.com/results?search_query=W+Edwards+Deming+quality+management)                    |
+| 07  | EC2404      | [Electronics System Design Lab](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2404%20-%20Electronics%20System%20Design%20Lab/readme.md)                                                   | 2 | S  | 10 | NOV 2015                |      | [Phil's Lab — complete electronics projects](https://www.youtube.com/@PhilsLab)                                                               |
+| 07  | EC2405      | [Optical & Microwave Lab](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2405%20-%20Optical%20and%20Microwave%20Lab/readme.md)                                                             | 2 | S  | 10 | NOV 2015                |      | [W2AEW — RF instruments](https://www.youtube.com/user/w2aew)                                                                                  |
+| 08  | EC2043      | [Wireless Networks](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2043%20-%20Wireless%20Networks/readme.md)                                                                               | 3 | E  | S  | NOV 2017                |      | [Practical Networking — networking concepts](https://www.youtube.com/@PracticalNetworking)                                                    |
+| 08  | EC2050      | [Mobile Adhoc Networks](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2050%20-%20Mobile%20Adhoc%20Networks/readme.md)                                                                     | 3 | D  | 6  | APR 2016                |      | [NS-3 network simulation tutorials](https://www.youtube.com/results?search_query=NS-3+mobile+ad+hoc+network+simulation)                       |
+| 08  | EC2451      | [Project Work](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/EC2451%20-%20Project%20Work/readme.md)                                                                                         | 6 | S  | 10 | APR 2016                |      | [Phil's Lab — practical engineering projects](https://www.youtube.com/@PhilsLab)                                                              |
+
+### The channels I would prioritize for you
+
+[Ben Eater Complete 8-bit breadboard computer kit bundle - Shop](https://images.openai.com/static-rsc-4/UsIK7rrLwoOIU1P_Z7G9Si9SC7srJx9386yP7IKt2_IIWMZ6QVcbPS9UC4hloKua1NbYvTcU0vBuDCnIHRy92fGz34z4WeXqCS34chf9WHZkfRBD8EeA1c38LN52pju50qTVLjmBi2NuoMwiZaswEtk8NH5ltYmIeNubNrAHdMY?purpose=inline)
+
+1\. Ben Eater
+
+Best for digital logic, registers, memory, CPUs and understanding computers from physical components upward.
+
+[Channel](https://www.youtube.com/@BenEater) · [Build an 8-bit computer](https://eater.net/8bit).&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://eater.net\&sz=32)
+
+Ben Eater
+
++1
+
+
+
+[Free Video: Kirchoff's Current and Voltage Laws, and the Incidence Matrix - Lecture 1.2 from NPTEL-NOC IITM | Class Central](https://images.openai.com/static-rsc-4/7kJxAVbY6YXdOkeZ7qZFNt2egpqCGUctuTtREoDKe8JkmOhZBqAWfawzF7gF4tgLXdnIS5-Y9TB7NfI2ALDnE8tdZsIqbF4nZdFsJexFR4bp-9b4XmZ4kewSHdG4fClKfLBItMrUZ3ZMu7wrfbgkiO1EIq0g-hJm6Rq0MIVM_BU?purpose=inline)
+
+2\. Prof. Shanthi Pavan
+
+Best for analog circuits, integrated circuits, CMOS circuit analysis and ADC/DAC design. This is the research-level theory side of electronics.
+
+[Official IIT Madras video lectures](https://ee.iitm.ac.in/videolectures/) · [Analog Circuits course](https://ee.iitm.ac.in/videolectures/doku.php?id=ec201%3Astart).&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://www.ee.iitm.ac.in\&sz=32)
+
+EE, IITM
+
++2
+
+
+
+[KiCad STM32 + USB + Buck Converter PCB Design and JLCPCB Assembly (Update) - Phil's Lab #11](https://images.openai.com/static-rsc-4/J9d-WBEXCNc369Tmgc72WjAt999EaXfF2FLZ1V6DBb1hKFkgK47nZdxCzYYg5wgGL099dsBe-AgOnT61MSS4lA5p5C1aI-gOg-mMeNgCYTNkDvV5-d0DL5xVbKdE_t08ANi7rtkuJ0jCeeGVSPJj_HsoHJTP27GcyaivgmzgclE?purpose=inline)
+
+3\. Phil's Lab
+
+Best for PCB design, embedded software, STM32, FPGA, signal processing and building complete electronics projects.
+
+[YouTube channel](https://www.youtube.com/@PhilsLab).&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://edclsu.com\&sz=32)
+
+edclsu.com
+
++1
+
+
+
+[W2AEW - Callsign Lookup by QRZ Ham Radio](https://images.openai.com/static-rsc-4/wuecmYzAzi7_rmeIN5D9RHzJf2SIJqTlQCc4GLUMXLLu1rRNCuPf9hZ5VeUKTOdJP5BBgECpu5yz7iXMCnF7z9AymISJveyGlIM1cswTU-k5pwpjWbp8YdOtvkh8_BFeHljdfwxA_wMmmW4lqnaQS1FesVy6zRB7Iru3ZsqArTA?purpose=inline)
+
+4\. W2AEW
+
+Best for oscilloscopes, spectrum analyzers, circuit measurements and understanding what real signals look like on laboratory equipment.
+
+[YouTube channel](https://www.youtube.com/user/w2aew).
+
+[How to Design Custom PCB in 3 Hours | Full Tutorial](https://images.openai.com/static-rsc-4/dO4BX8D5xY6RWx0-BvfUT62hxW1ZTmZxf5z2PIEaiqRYEOz-olrSE2n0Ar6z9ca65auR_2kDMqOPhtOMRXkEvby01-qiK5aHkUPE7bVrpj3GwSjyiilUehTJYBw8JEes9GQ52aLZe0ve2DAyp_Wd__1uIjgVTC1m7HN1tQ5AZqo?purpose=inline)
+
+5\. Robert Feranec
+
+Best for schematic design, PCB layout, component placement, routing and practical design reviews.
+
+[YouTube channel](https://www.youtube.com/@RobertFeranec) · [PCB design tutorial](https://www.youtube.com/results?search_query=Robert+Feranec+PCB+design+tutorial).&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://www.youtube.com\&sz=32)
+
+YouTube
+
++1
+
+
+
+One qualification: not every subject has a Ben Eater-style builder who covers the whole university syllabus. For subjects such as probability, electromagnetic fields and communication theory, a specialist instructor may be more valuable than a creator who performs demonstrations. For your practical ECE learning, start with Ben Eater, Afrotechmods, W2AEW, Phil’s Lab and Prof. Shanthi Pavan, then use the other entries as your syllabus-specific guide.
