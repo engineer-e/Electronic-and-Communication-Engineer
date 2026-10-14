@@ -776,7 +776,7 @@ I’ve kept your course details below and added a final column. “Practical” 
 
 [Ben Eater Complete 8-bit breadboard computer kit bundle - Shop](https://images.openai.com/static-rsc-4/UsIK7rrLwoOIU1P_Z7G9Si9SC7srJx9386yP7IKt2_IIWMZ6QVcbPS9UC4hloKua1NbYvTcU0vBuDCnIHRy92fGz34z4WeXqCS34chf9WHZkfRBD8EeA1c38LN52pju50qTVLjmBi2NuoMwiZaswEtk8NH5ltYmIeNubNrAHdMY?purpose=inline)
 
-1\. Ben Eater
+1. Ben Eater
 
 Best for digital logic, registers, memory, CPUs and understanding computers from physical components upward.
 
@@ -784,15 +784,11 @@ Best for digital logic, registers, memory, CPUs and understanding computers from
 
 [image](https://www.google.com/s2/favicons?domain=https://eater.net\&sz=32)
 
-Ben Eater
-
-+1
-
-
+Ben Eater +1
 
 [Free Video: Kirchoff's Current and Voltage Laws, and the Incidence Matrix - Lecture 1.2 from NPTEL-NOC IITM | Class Central](https://images.openai.com/static-rsc-4/7kJxAVbY6YXdOkeZ7qZFNt2egpqCGUctuTtREoDKe8JkmOhZBqAWfawzF7gF4tgLXdnIS5-Y9TB7NfI2ALDnE8tdZsIqbF4nZdFsJexFR4bp-9b4XmZ4kewSHdG4fClKfLBItMrUZ3ZMu7wrfbgkiO1EIq0g-hJm6Rq0MIVM_BU?purpose=inline)
 
-2\. Prof. Shanthi Pavan
+2. Prof. Shanthi Pavan
 
 Best for analog circuits, integrated circuits, CMOS circuit analysis and ADC/DAC design. This is the research-level theory side of electronics.
 
@@ -800,15 +796,11 @@ Best for analog circuits, integrated circuits, CMOS circuit analysis and ADC/DAC
 
 [image](https://www.google.com/s2/favicons?domain=https://www.ee.iitm.ac.in\&sz=32)
 
-EE, IITM
-
-+2
-
-
+EE, IITM +2
 
 [KiCad STM32 + USB + Buck Converter PCB Design and JLCPCB Assembly (Update) - Phil's Lab #11](https://images.openai.com/static-rsc-4/J9d-WBEXCNc369Tmgc72WjAt999EaXfF2FLZ1V6DBb1hKFkgK47nZdxCzYYg5wgGL099dsBe-AgOnT61MSS4lA5p5C1aI-gOg-mMeNgCYTNkDvV5-d0DL5xVbKdE_t08ANi7rtkuJ0jCeeGVSPJj_HsoHJTP27GcyaivgmzgclE?purpose=inline)
 
-3\. Phil's Lab
+3. Phil's Lab
 
 Best for PCB design, embedded software, STM32, FPGA, signal processing and building complete electronics projects.
 
@@ -816,15 +808,11 @@ Best for PCB design, embedded software, STM32, FPGA, signal processing and build
 
 [image](https://www.google.com/s2/favicons?domain=https://edclsu.com\&sz=32)
 
-edclsu.com
-
-+1
-
-
+edclsu.com +1
 
 [W2AEW - Callsign Lookup by QRZ Ham Radio](https://images.openai.com/static-rsc-4/wuecmYzAzi7_rmeIN5D9RHzJf2SIJqTlQCc4GLUMXLLu1rRNCuPf9hZ5VeUKTOdJP5BBgECpu5yz7iXMCnF7z9AymISJveyGlIM1cswTU-k5pwpjWbp8YdOtvkh8_BFeHljdfwxA_wMmmW4lqnaQS1FesVy6zRB7Iru3ZsqArTA?purpose=inline)
 
-4\. W2AEW
+4. W2AEW
 
 Best for oscilloscopes, spectrum analyzers, circuit measurements and understanding what real signals look like on laboratory equipment.
 
@@ -832,7 +820,7 @@ Best for oscilloscopes, spectrum analyzers, circuit measurements and understandi
 
 [How to Design Custom PCB in 3 Hours | Full Tutorial](https://images.openai.com/static-rsc-4/dO4BX8D5xY6RWx0-BvfUT62hxW1ZTmZxf5z2PIEaiqRYEOz-olrSE2n0Ar6z9ca65auR_2kDMqOPhtOMRXkEvby01-qiK5aHkUPE7bVrpj3GwSjyiilUehTJYBw8JEes9GQ52aLZe0ve2DAyp_Wd__1uIjgVTC1m7HN1tQ5AZqo?purpose=inline)
 
-5\. Robert Feranec
+5. Robert Feranec
 
 Best for schematic design, PCB layout, component placement, routing and practical design reviews.
 
@@ -840,10 +828,6 @@ Best for schematic design, PCB layout, component placement, routing and practica
 
 [image](https://www.google.com/s2/favicons?domain=https://www.youtube.com\&sz=32)
 
-YouTube
-
-+1
-
-
+YouTube +1
 
 One qualification: not every subject has a Ben Eater-style builder who covers the whole university syllabus. For subjects such as probability, electromagnetic fields and communication theory, a specialist instructor may be more valuable than a creator who performs demonstrations. For your practical ECE learning, start with Ben Eater, Afrotechmods, W2AEW, Phil’s Lab and Prof. Shanthi Pavan, then use the other entries as your syllabus-specific guide.
