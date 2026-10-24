@@ -563,9 +563,11 @@ I entered **T.J.S. Engineering College** for B.E. Electronics and Communication 
 
 1. [CAD Software Tutorial](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
 
-| Servo Motor | LTSpice  | KiCad | 
-| :---: | :---: | :---: |
-| [![Watch the video](https://img.youtube.com/vi/xe56q9L2fvU/default.jpg)](https://youtu.be/xe56q9L2fvU?si=LUhVWaOidFEZxxkk) | No proper tutorial  | [KiCad (Udemy)](https://www.udemy.com/share/105u0c3@uS4u8aMuEXSDpp8x6l5Jk98avHcFzJ9slmVlf-0QLyyWtM5Xk0xr5DBkZpXKnbO_Rw==/) not getting about inner depth in the design. [completed](https://book-g.github.io/KiCad/) |
+| Mini Servo Motor | [3D Model](https://cad.onshape.com/documents/af62402e322e9f47ed1795bd/w/d58fb8a162c59f1250e7e6b5/e/8af71db62fa9dee2395a542b?renderMode=0&uiState=6adc95664bf19451e065ef5b)  | LTSpice  | KiCad | 
+| :---: | :---: | :---: | :---: |
+| Learned From Solidworks Video | Implemented on OnShape  | | |
+| [![Watch the video](https://img.youtube.com/vi/xe56q9L2fvU/default.jpg)](https://youtu.be/xe56q9L2fvU?si=LUhVWaOidFEZxxkk) | [![Watch the video](https://img.youtube.com/vi/CcJTDemGmUg/default.jpg)](https://youtu.be/CcJTDemGmUg?si=jITmJxTsIe-4_zIJ) | No proper tutorial  | [KiCad (Udemy)](https://www.udemy.com/share/105u0c3@uS4u8aMuEXSDpp8x6l5Jk98avHcFzJ9slmVlf-0QLyyWtM5Xk0xr5DBkZpXKnbO_Rw==/) not getting about inner depth in the design. [completed](https://book-g.github.io/KiCad/) | 
+
 
 **Note** - Not Getting Proper Tutorial Series, I learned from   for LTSpice (youtube) , KiCad (Udemy)
 ---
