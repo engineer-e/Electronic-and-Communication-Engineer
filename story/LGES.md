@@ -4,9 +4,6 @@
 
 I reviewed Zezhou Huang's actual profile. It documents his undergraduate education and research at the University of Wisconsin–Madison, his PhD at Columbia University, and subsequent research at Microsoft. It also lists collaborative research papers and patents involving Rathijit Sen.&#x20;
 
-[image](https://www.google.com/s2/favicons?domain=https://zachary62.github.io\&sz=32)
-zachary62.github.io
-
 Here is a stronger, more carefully worded version of your statement:
 
 🎓 **When Talent Meets Opportunity: What Is Indian Education Missing?**
