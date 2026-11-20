@@ -4,7 +4,7 @@
 
 | English | Tamil |
 |---|---|
-| (https://youtu.be/yRrgsiVr910?si=nu93xGHE3SFwDa2a) |  |
+| (https://youtu.be/yRrgsiVr910) | (https://youtu.be/b0pw1aNH03w) |
 
 
 I reviewed Zezhou Huang's actual profile. It documents his undergraduate education and research at the University of Wisconsin–Madison, his PhD at Columbia University, and subsequent research at Microsoft. It also lists collaborative research papers and patents involving Rathijit Sen.&#x20;
